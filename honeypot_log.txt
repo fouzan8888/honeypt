@@ -1,0 +1,36 @@
+2024-11-29 17:16:30,812 - Connection established with ('127.0.0.1', 56180)
+2024-11-29 17:16:30,813 - Connection from IP: 127.0.0.1, Port: 56180
+2024-11-29 17:16:30,817 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:16:30,823 - Auth rejected (none).
+2024-11-29 17:16:32,898 - Connection from IP: 127.0.0.1, Port: 56180, Username: admin, Password: admin
+2024-11-29 17:16:32,898 - Auth granted (password).
+2024-11-29 17:16:44,525 - Socket exception: An operation was attempted on something that is not a socket (10038)
+2024-11-29 17:16:57,289 - Connection established with ('127.0.0.1', 56182)
+2024-11-29 17:16:57,290 - Connection from IP: 127.0.0.1, Port: 56182
+2024-11-29 17:16:57,295 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:16:57,305 - Auth rejected (none).
+2024-11-29 17:16:59,263 - Connection from IP: 127.0.0.1, Port: 56182, Username: admin, Password: admin
+2024-11-29 17:16:59,264 - Auth granted (password).
+2024-11-29 17:17:13,991 - Socket exception: An operation was attempted on something that is not a socket (10038)
+2024-11-29 17:17:28,158 - Shutting down SSH honeypot...
+2024-11-29 17:19:28,964 - Connection established with ('127.0.0.1', 56194)
+2024-11-29 17:19:28,967 - Connection from IP: 127.0.0.1, Port: 56194
+2024-11-29 17:19:28,969 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:19:28,985 - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2024-11-29 17:19:43,911 - Connection established with ('127.0.0.1', 56203)
+2024-11-29 17:19:43,913 - Connection from IP: 127.0.0.1, Port: 56203
+2024-11-29 17:19:43,916 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:19:45,685 - Auth rejected (none).
+2024-11-29 17:19:47,665 - Auth granted (password).
+2024-11-29 17:21:02,204 - Connection established with ('127.0.0.1', 56255)
+2024-11-29 17:21:02,208 - Connection from IP: 127.0.0.1, Port: 56255
+2024-11-29 17:21:02,209 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:21:03,800 - Auth rejected (none).
+2024-11-29 17:21:05,763 - Auth granted (password).
+2024-11-29 17:21:19,017 - Connection established with ('127.0.0.1', 56262)
+2024-11-29 17:21:19,019 - Connection from IP: 127.0.0.1, Port: 56262
+2024-11-29 17:21:19,022 - Connected (version 2.0, client OpenSSH_for_Windows_9.5)
+2024-11-29 17:21:19,039 - Auth rejected (none).
+2024-11-29 17:21:23,510 - Auth rejected (password).
+2024-11-29 17:21:25,501 - Auth rejected (password).
+2024-11-29 17:21:27,790 - Auth granted (password).

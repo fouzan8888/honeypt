@@ -1,0 +1,15 @@
+2024-11-16 12:08:38,669 - INFO - Honeypot started on 0.0.0.0:2222
+2024-11-16 12:09:19,309 - INFO - Honeypot shutting down.
+2024-11-16 12:16:28,138 - INFO - Honeypot started on 0.0.0.0:2222
+2024-11-16 12:17:31,102 - INFO - Connection from 127.0.0.1:55118
+2024-11-16 12:17:31,103 - INFO - Sent banner to 127.0.0.1
+2024-11-16 12:17:31,109 - INFO - Received from 127.0.0.1: SSH-2.0-OpenSSH_for_Windows_9.5
+2024-11-16 12:17:31,113 - ERROR - Error handling request: 'utf-8' codec can't decode byte 0x94 in position 3: invalid start byte
+2024-11-16 14:06:29,963 - INFO - Honeypot shutting down.
+
+
+
+
+
+
+
